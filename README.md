@@ -3,3 +3,5 @@ In 2018, I participated in a [contest](https://rug.mnhn.fr/seewave/spec.html) to
 
 For the spectrogram, I used a sound clip of a Canyon Wren.  The clip is in the creative commons (CC BY-NC-SA 4.0) and was originally uploaded to xeno-canto.org by Bobby Wilcox.  The file can be downloaded from this link:
 https://www.xeno-canto.org/381415
+
+![Spectrogram](./spectro2018_Flickinger_Joshua.png)
